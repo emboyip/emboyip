@@ -51,11 +51,7 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/emboyip/emboyip/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31c7x4qwjllf2ejdbhnbwmuyoqj4">
