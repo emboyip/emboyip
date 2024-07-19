@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm emboy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I have been a programmer for five years, specializing in Python. However, I also find the Android operating system quite interesting, and I am a huge fan of iOS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emboyip&label=Profile%20views&color=0e75b6&style=flat" alt="emboyip" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emboyip" alt="emboyip" /></a> </p>
 
-- 🔭 I’m currently working on **vip sans**
-
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **emboygod@gmail.com**
+
+- ⚡ Fun fact **I was just bored, that's all.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
