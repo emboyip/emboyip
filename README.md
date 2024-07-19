@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! My name is emboy</h2>
 
 ###
 
@@ -52,8 +52,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/emboyip/emboyip/output/snake.svg" alt="Snake animation" />
 
